@@ -42,7 +42,7 @@ Google Optimize / Colab
 Google Analytics / Mixpanel
 
 Tableau and Seaborn for visualization
-Link [Version to be tested](https://docs.google.com/presentation/d/1o7IVqCHncEDNNdTXymbj13d_NCGw7e4pyu3UKa-bp5A/edit?slide=id.g384af54f1b3_0_1244#slide=id.g384af54f1b3_0_1244 "Version to be tested")
+Link [Version to be tested](https://docs.google.com/presentation/d/1o7IVqCHncEDNNdTXymbj13d_NCGw7e4pyu3UKa-bp5A/edit?slide=id.g384af54f1b3_0_1244#slide=id.g384af54f1b3_0_1244 "Version to be tested"),
 [Notebook/A/B testing Calculations](https://drive.google.com/file/d/1Q0Q8ETt5h5N8wGDpxQe0NADmdA3vLPR9/view?usp=sharing "Notebook/A/B testing Calculations")
 ## Key Learnings
 Learned how color and text changes can influence user interaction.
